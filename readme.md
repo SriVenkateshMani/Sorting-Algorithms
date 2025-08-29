@@ -1,4 +1,4 @@
-## 🫧 Bubble Sort
+## Bubble Sort
 
 ### Overview
 
@@ -15,9 +15,13 @@ Bubble Sort is a simple comparison based sorting algorithm. It repeatedly steps 
 
 ---
 
-### 🔁 Algorithm Logic
+### Algorithm Logic
 
 - Traverse the array multiple times
 - On each pass, compare each pair of adjacent items
 - Swap them if they are in the wrong order
 - Repeat until a full pass requires no swaps
+
+## ==============================
+
+## Selection Sort
