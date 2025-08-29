@@ -22,6 +22,6 @@ Bubble Sort is a simple comparison based sorting algorithm. It repeatedly steps 
 - Swap them if they are in the wrong order
 - Repeat until a full pass requires no swaps
 
-## ==============================================================================================================
+## ======================================================
 
 ## Selection Sort
