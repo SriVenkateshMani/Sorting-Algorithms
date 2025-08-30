@@ -20,5 +20,6 @@ def counting_sort(arr):
             arr[i] = c
             i += 1
             counts[c] -= 1
+    return arr
 
 print(counting_sort(arr))
