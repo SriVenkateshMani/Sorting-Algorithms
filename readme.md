@@ -1,4 +1,4 @@
-## Bubble Sort
+# Bubble Sort
 
 ### Overview
 
@@ -24,4 +24,4 @@ Bubble Sort is a simple comparison based sorting algorithm. It repeatedly steps 
 
 ---
 
-## Selection Sort
+# Selection Sort
